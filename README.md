@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ElevateAI](https://elevate-ai-snowy.vercel.app)
 
-- 🌱 I’m currently learning **Django , Go**
+- 🌱 I’m currently learning **AgenticAI, MCP, Django, Go**
 
 - 📫 How to reach me **krishnasaiprakhya@gmail.com**
 
