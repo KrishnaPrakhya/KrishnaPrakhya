@@ -158,13 +158,6 @@ hobbies: [Problem Solving, Open Source, Building Cool Stuff]
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krishnaprakhya/krishnaprakhya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 *To enable the snake animation, add a GitHub Action in your profile repo. See [this guide](https://github.com/Platane/snk).*
 
 <!-- Random Dev Quote -->
 <div align="center">
